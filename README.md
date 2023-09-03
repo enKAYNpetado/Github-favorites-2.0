@@ -7,12 +7,12 @@ Figma
 
 This stage I learning:
 
-build tables in html
-accessibility sr-only
-Making classes and inheritance in JS
-Creating HTML with JavaScript
-Immutability for working with application data
-Getting to Know LocalStorage
-Métodos estáticos e promessas
-Promises with Async Await
+build tables in html,
+accessibility sr-only,
+Making classes and inheritance in JS,
+Creating HTML with JavaScript,
+Immutability for working with application data,
+Getting to Know LocalStorage,
+Métodos estáticos e promessas,
+Promises with Async Await,
 controlling application flow with try, catch, throw
