@@ -1,7 +1,7 @@
 # Github-favorites-2.0
 This project was developed with the following technologies:
 
--HTML e CSS
+ - HTML e CSS
  - JavaScript
  - Figma
 
