@@ -16,3 +16,7 @@ This stage I learning:
  - Métodos estáticos e promessas
  - Promises with Async Await
  - controlling application flow with try, catch, throw
+
+
+## 🔗 Links
+[![linkedin](https://www.linkedin.com/in/paulo-victor-07481a243/)](https://www.linkedin.com/in/paulo-victor-07481a243/)
